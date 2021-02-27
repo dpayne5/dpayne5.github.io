@@ -3,6 +3,33 @@ layout: inner
 title: About
 permalink: /about/
 ---
+
+# About
+
+I completed my undergraduate studies at UC Berkeley with a degree in Cognitive Science and a minor in Computer Science, I am currently seeking employment. You can contact me at <dpayne5@berkeley.edu>
+
+### Relevant Coursework
+
+---
+
+<sub>Structure and Interpretations of Computer Programs</sub>\
+<sub>Data Structures</sub>\
+<sub>Machine Structures</sub>\
+<sub>User Interface Design and Development</sub>\
+<sub>Operating Systems and Systems Programming</sub>\
+<sub>Efficient Algorithms and Intractable Problems</sub>\
+<sub>Introduction to Database Systems</sub>
+<br>
+
+### Projects
+
+---
+
+#### MTG Draft
+
+<sub>A full stack app built using serverless and React that simulates the draft game mode of Magic: The Gathering against AI opponents playing basic strategy. View the live demo <a href="http://draftbucket.s3-website.us-east-2.amazonaws.com" target="_blank">here</a>, and the source code <a href="https://github.com/dpayne5/mtgdraft" target="_blank">here</a>.</sub>
+
+<!--
 ## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
@@ -26,23 +53,25 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 {% highlight js %}
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+dateformat.i18n = require('./lang/' + l)
+return true;
 }
 {% endhighlight %}
 
 {% highlight ruby %}
+
 # Ruby code with syntax highlighting
+
 GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
+s.add_dependency(gem, "= #{version}")
 end
 {% endhighlight %}
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -53,7 +82,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -65,10 +94,10 @@ end
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Item foo
+- Item bar
+- Item baz
+- Item zip
 
 ### And an ordered list:
 
@@ -130,7 +159,7 @@ To render a code block with syntax highlighting, surround your code as follows:
 {% raw %}
 {% highlight ruby %}
 def foo
-  puts 'foo'
+puts 'foo'
 end
 {% endhighlight %}
 {% endraw %}
@@ -145,17 +174,19 @@ end
 #### Bash
 
 {% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
+
+> \_ ssh -i ~/.ssh/id_rsa account@host.com
+> account@host:~$
 $ var="my-value"
-$ echo $var
+> $ echo $var
 my-value
 $ logout
-{% endhighlight %}
+> {% endhighlight %}
 
 #### HTML
 
 {% highlight html %}
+
 <!DOCTYPE html>
 <html>
  <head>
@@ -171,35 +202,39 @@ $ logout
 #### CSS
 
 {% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
+/_--------------------------------------------------------------
+1.0 Defaults
+--------------------------------------------------------------_/
 
 @media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
+.container {
+width: 1200px;
+}
 }
 
 body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
+background-color: #e9edf0;
+@extend %opensans;
+-webkit-font-smoothing: antialiased;
 }
 {% endhighlight %}
 
 #### YAML
 
 {% highlight yaml %}
+
 ### Phantom settings
+
 paginate: 10
 footer_text: '© 2018 Jami Gibbs'
 admin_name: 'Jami Gibbs'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 
 #### Phantom Navigation menu
+
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+
+- { url: '/', text: 'Home' }
+- { url: '/about', text: 'About' }
+  {% endhighlight %} -->
