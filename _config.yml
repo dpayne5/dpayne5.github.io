@@ -86,6 +86,7 @@ pagination:
   indexpage: "index"
 
 ############################################################
+future: true
 
 ### Phantom settings
 footer_text: "© 2020 Dusty Payne"
