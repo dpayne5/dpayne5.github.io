@@ -5,3 +5,4 @@ gem "kramdown-parser-gfm"
 gemspec
 
 gem "webrick", "~> 1.7"
+gem "jekyll-paginate", "~>1.1.0"
