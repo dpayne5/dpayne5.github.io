@@ -12,8 +12,26 @@
 
         <div class="break"></div>
 
+        <!-- <article>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2">
+                <zero-md src="https://resumemarkdown-dp.s3.us-east-2.amazonaws.com/about.md">
+                </zero-md>
+
+
+
+              </div>
+            </div>
+          </div>
+        </article> -->
+
         {% for post in paginator.posts %}
+
         <div class="wow fadeIn">
+          <zero-md id="about" src="https://resumemarkdown-dp.s3.us-east-2.amazonaws.com/about.md">
+          </zero-md>
+
           {% if post.position == "left" %} {% include content-left.html %} {%
           endif %} {% if post.position == "right" %} {% include
           content-right.html %} {% endif %}
