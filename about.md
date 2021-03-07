@@ -1,6 +1,6 @@
 # About
 
-I completed my undergraduate studies at UC Berkeley with a degree in Cognitive Science and a minor in Computer Science, I am currently seeking employment. You can contact me at <dpayne5@berkeley.edu>
+I completed my undergraduate studies at UC Berkeley with a degree in Cognitive Science and a minor in Computer Science, I am currently seeking employment. You can contact me at <dusty.ryan.payne@gmail.com>
 
 ### Relevant Coursework
 
@@ -25,7 +25,7 @@ I completed my undergraduate studies at UC Berkeley with a degree in Cognitive S
 
 #### BoxBreak
 
-<sub>A 2D game written in Typescript and built on the excalibur.js framework. This project is currently a work in progress. You can find the source code <a href="https://github.com/dpayne5/ex-test" target="_blank">here</a> which contains instructions on how to run the project locally in the README.</sub>
+<sub>A 2D game written in Typescript and built on the excalibur.js framework. This project is currently a work in progress. You can find the source code <a href="https://github.com/dpayne5/ex-test" target="_blank">here</a> which contains instructions on how to run the project locally.</sub>
 
 <!--
 ## Markdown
