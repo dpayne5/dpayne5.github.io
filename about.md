@@ -2,6 +2,24 @@
 
 I completed my undergraduate studies at UC Berkeley with a degree in Cognitive Science and a minor in Computer Science, I am currently seeking employment. You can contact me at <dusty.ryan.payne@gmail.com>
 
+### Education
+
+---
+
+<sub>University Of California, Berkeley — June 2018 to December 2020</sub>\
+<sub>Bachelor of Arts in Cognitive Science, minor in Computer Science</sub>
+<br>
+
+### Skills
+
+---
+
+<sub>**Programming Languages**: Javascript, C, Python, MySQL, HTML, CSS</sub>\
+<sub>**Technologies and Frameworks**: React.js, Redux.js, Git, AWS, Serverless</sub>\
+<br>
+
+
+
 ### Relevant Coursework
 
 ---
@@ -23,9 +41,9 @@ I completed my undergraduate studies at UC Berkeley with a degree in Cognitive S
 
 <sub>A full stack app built using serverless and React that simulates the draft game mode of Magic: The Gathering against AI opponents playing basic strategy. View the live demo <a href="http://draftbucket.s3-website.us-east-2.amazonaws.com" target="_blank">here</a>, and the source code <a href="https://github.com/dpayne5/mtgdraft" target="_blank">here</a>.</sub>
 
-#### BoxBreak
+#### Pintos
 
-<sub>A 2D game written in Typescript and built on the excalibur.js framework. This project is currently a work in progress. You can find the source code <a href="https://github.com/dpayne5/ex-test" target="_blank">here</a> which contains instructions on how to run the project locally.</sub>
+<sub>A school project that focused on implementing essential features of an Operating System. You can read more about the particulars <a href="https://gitfront.io/r/dpayne5/3e81140e6f69d640476dbbd5d92b13af150febfc/pintos/" target="_blank">here.</a></sub>
 
 <!--
 ## Markdown
