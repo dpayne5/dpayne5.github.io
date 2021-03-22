@@ -11,6 +11,5 @@ To run this locally do:
   bundle exec jekyll serve
   ```
   
-  You may need to append your commands with `sudo` if you're getting a permissions error.
 
 
