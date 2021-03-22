@@ -51,7 +51,7 @@ I completed my undergraduate studies at UC Berkeley with a degree in Cognitive S
 
 ### Contact
 
-You can reach me at dusty.ryan.payne[at]gmail.com, or find me on LinkedIn by clicking below.
+<sub>You can reach me at dusty.ryan.payne[at]gmail.com, or find me on LinkedIn by clicking below.</sub>
 <!--
 ## Markdown
 
