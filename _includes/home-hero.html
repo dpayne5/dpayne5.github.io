@@ -14,6 +14,22 @@
           </p>
           {% endif %}
 
+          <zero-md src="https://resumemarkdown-dp.s3.us-east-2.amazonaws.com/about.md">
+            <template>
+              <style>
+                :host {
+                  font-size: 16px;
+                }
+
+                body {
+                  margin: auto;
+                  padding-top: 5px;
+                  font-size: 24px;
+                }
+              </style>
+            </template>
+          </zero-md>
+
           <div class="hero-buttons">
             <!-- {% if site.twitter_username != '' %}
             <a href="https://twitter.com/{{ site.twitter_username }}"
@@ -23,17 +39,13 @@
             >
             {% endif %}  -->
             {% if site.github_username != '' %}
-            <a href="https://github.com/{{ site.github_username }}"
-              ><button class="btn btn-default btn-lg">
+            <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg">
                 <i class="fa fa-github fa-lg"></i>Github
-              </button></a
-            >
+              </button></a>
             {% endif %} {% if site.medium_username != '' %}
-            <a href="https://www.linkedin.com/in/dusty-payne-b0a333177/"
-              ><button class="btn btn-default btn-lg">
+            <a href="https://www.linkedin.com/in/dusty-payne-b0a333177/"><button class="btn btn-default btn-lg">
                 <i class="fa fa-linkedin fa-lg"></i>LinkedIn
-              </button></a
-            >
+              </button></a>
             {% endif %}
           </div>
         </div>

@@ -1,6 +1,10 @@
 # About
 
-I completed my undergraduate studies at UC Berkeley with a degree in Cognitive Science and a minor in Computer Science, I am currently seeking employment. You can contact me at <dusty.ryan.payne@gmail.com>
+<sub>
+I completed my undergraduate studies at UC Berkeley with a degree in Cognitive Science and a minor in Computer Science and am currently seeking entry level opportunities as a full stack developer/engineer. In the meantime I'm building small applications using AWS and the serverless framework to better understand cloud computing.</sub>
+
+<br>
+<br>
 
 ### Education
 
@@ -45,6 +49,9 @@ I completed my undergraduate studies at UC Berkeley with a degree in Cognitive S
 
 <sub>A school project that focused on implementing essential features of an Operating System. You can read more about the particulars <a href="https://gitfront.io/r/dpayne5/3e81140e6f69d640476dbbd5d92b13af150febfc/pintos/" target="_blank">here.</a></sub>
 
+### Contact
+
+You can reach me at dusty.ryan.payne[at]gmail.com, or find me on LinkedIn by clicking below.
 <!--
 ## Markdown
 

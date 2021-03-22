@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Dusty Payne"
 email: "dusty.ryan.payne@gmail.com"
-description: "Recent graduate @ UC Berkeley. My interests lie in web development."
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dpayne5.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: "sd"
@@ -98,4 +98,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: "#top", text: "Home" }
-  - { url: "#about", text: "About" }
+  - { url: "#about", text: "Contact" }
